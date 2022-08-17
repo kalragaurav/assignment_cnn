@@ -1,5 +1,5 @@
 # Project Name
-> CNN Based Model to detect Melanoma.
+CNN Based Model to detect Melanoma.
 
 ## Table of Contents
 * [General Info](#general-information)
